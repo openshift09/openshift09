@@ -32,7 +32,7 @@ Enterprise integration workloads on OpenShift Operators
 Cluster-wide dashboards, alerts, performance metrics
 
 👉 *Explore all projects here:*  
-**https://github.com/openshift09/Openshift-Project**
+**https://github.com/openshift09
 
 ---
 
