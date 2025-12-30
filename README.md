@@ -16,15 +16,19 @@ My work focuses on platform reliability, security, automation, and scalable depl
 **Repositories (projects and understanding)
 **
 
-Projects on Python
+1.  Projects on Python
 
-Devops 
+2.  Devops 
 
-Openshift
+3.  Openshift
 
-CICD
+4.  CICD
 
-Linux Portfolio
+5.  Linux Portfolio
+
+6.  Generative AI
+
+7.  Agentic AI
 
 ## 🛠️ DevOps & OpenShift Project Portfolio
 
