@@ -13,6 +13,18 @@ My work focuses on platform reliability, security, automation, and scalable depl
 - **Scripting:** Bash, Python  
 
 ---
+**Repositories (projects and understanding)
+**
+
+Projects on Python
+
+Devops 
+
+Openshift
+
+CICD
+
+Linux Portfolio
 
 ## 🛠️ DevOps & OpenShift Project Portfolio
 
